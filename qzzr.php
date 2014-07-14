@@ -29,7 +29,7 @@ function createQzzrEmbedJS($atts, $content = null) {
 
 	} else {
 
-		wp_enqueue_script( 'qzzr', '//d1vokstcko949q.cloudfront.net/widget/loader.js', nil , false, false ); 
+		wp_enqueue_script( 'qzzr', '//dcc4iyjchzom0.cloudfront.net/widget/loader.js', nil , false, false ); 
 
 		$qzzrHook = "<div class='quizz-container' data-quiz='$quiz' data-width='$width' data-height='$height'";
 		
