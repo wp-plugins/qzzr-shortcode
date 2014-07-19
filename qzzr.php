@@ -17,6 +17,7 @@ function createQzzrEmbedJS($atts, $content = null) {
 		'offset'     => ''
 	), $atts));
 
+
 	if (!$quiz) {
 
 		$error = "
@@ -33,7 +34,7 @@ function createQzzrEmbedJS($atts, $content = null) {
 
 		$qzzrHook = "<div class='quizz-container' data-quiz='$quiz' data-width='$width' data-height='$height'";
 		
-		if ($redirect){
+		if (filter_var($redirect, FILTER_VALIDATE_BOOLEAN)){
 			$qzzrHook .= " data-auto-redirect='true'";
 		}
 		
