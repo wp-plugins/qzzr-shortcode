@@ -3,7 +3,7 @@
 Contributors: Qzzr
 Plugin Name: Qzzr Shortcode
 Plugin URI: http://qzzr.co
-Tags: qzzr, quizzes, shortcode, quiz
+Tags: qzzr, quizzes, shortcode, quiz, buzzfeed
 Author URI: http://qzzr.co
 Author: Qzzr
 Requires at least: 2.6
@@ -14,13 +14,15 @@ Version: 1.01
  
 == Description ==
 
-Embed your Qzzr quizzes on your wordpress site. Allows the use of a special short code '[qzzr]' for embedding Qzzr quizzes. 
+Embed your [Qzzr](http://www.qzzr.co) quizzes on your wordpress site. Allows the use of a special short code `[qzzr]` for embedding Qzzr quizzes. 
 
-Qzzr + Qzzr Shortcode Plugin = **Wordpress lovin’.**
+[Qzzr](http://www.qzzr.co) + Qzzr Shortcode Plugin = **Wordpress lovin’.**
 
-Qzzr is the world’s simplest quiz building tool. It lets everyone from Fortune 500 companies to your mother create a quiz and share it with the world. Now with our Wordpress plugin, anyone who creates their own content on Wordpress can now create and embed their own quizzes just like BuzzFeed. That means you can use our quiz tool to promote your own site or blog **without people ever leaving your site.** 
+[Qzzr](http://www.qzzr.co) is the world’s simplest quiz building tool. It lets everyone from Fortune 500 companies to your mother create a quiz and share it with the world. Now with our Wordpress plugin, anyone who creates their own content on Wordpress can now create and embed their own quizzes just like BuzzFeed. That means you can use our quiz tool to promote your own site or blog without people ever leaving your site. 
 
 You could embed quizzes on Wordpress before, but the process was complicated and didn’t work for all types of users on Wordpress. We wanted to simplify the process, so we created the **Qzzr Shortcode Plugin** and made it available for all our faithful Wordpress users. You create a quiz on Qzzr, grab the WordPress shortcode and with the plugin installed on your Wordpress site, just paste it into any post or page on WordPress and that’s it. Your quiz will embed itself on your site and like embedding a video from YouTube or Vimeo, your quiz will appear inline with your content. 
+
+Don't have a Qzzr account? No problem! Head over to [Qzzr.co](http://www.qzzr.co) and sign up for a free account, and start making your own quizzes.
 
 = Current Features = 
 
@@ -64,7 +66,7 @@ Otherwise:
 
 = What is Qzzr? =
 
-[Qzzr](http://www.qzzr.co) is a web app that helps anybody build beautiful engaging quizzes. It\'s great for driving social traffic, generating qualified leads, presenting targeted offers, and tracking scores. [Learn more about Qzzr](http://www.qzzr.co).
+[Qzzr](http://www.qzzr.co) is a web app that helps anybody build beautiful engaging quizzes. It's great for driving social traffic, generating qualified leads, presenting targeted offers, and tracking scores. [Learn more about Qzzr](http://www.qzzr.co).
 
 
 = Why is this plugin useful? =
@@ -88,13 +90,12 @@ Nope, it’s so easy! Check out the Installation section to see just how easy it
 * width: The pixel or percentage width of your quiz container. ("500px" or "100%" - Default: "100%") 
 * height: The pixel or percentage width of your quiz container. Setting this to auto will resize the quiz on each question to match the content. ("500px", "100%", "auto" - Default: "auto") 
 * redirect: set this to true if you want shares to return to the page or post where you are embedding the quiz. 
-
 * offset: You can set this to accommodate fixed headers. On desktop browsers, we scroll the window to the top of the quiz if the top is out of view. This will set a top margin to have the quiz to be offset from the top by the value you specify.
 
 Now if that was over your head, no need to worry about it. Just install the plugin, copy the shortcode from Qzzr after creating the quiz and paste it into Wordpress and your quiz will look great!
 
 
-= I need more help with the Qzzr quiz building tool =
+= I need more help with the Qzzr quiz building tool! =
 
 No problem at all, check out our thorough [knowledge base](https://qzzr.groovehq.com/help_center) on how to use Qzzr. 
 
