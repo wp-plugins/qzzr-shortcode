@@ -2,27 +2,28 @@
 
 Contributors: Qzzr
 Plugin Name: Qzzr Shortcode
-Plugin URI: http://qzzr.co
+Plugin URI: http://qzzr.com
 Tags: qzzr, quizzes, shortcode, quiz, buzzfeed
-Author URI: http://qzzr.co
+Author URI: http://qzzr.com
 Author: Qzzr
 Requires at least: 2.6
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: 1.01
 Version: 1.01
 
+Embed your Qzzr.com quizzes on your wordpress site.
  
 == Description ==
 
-Embed your [Qzzr](http://www.qzzr.co) quizzes on your wordpress site. Allows the use of a special short code `[qzzr]` for embedding Qzzr quizzes. 
+Embed your [Qzzr](http://www.qzzr.com) quizzes on your wordpress site. Allows the use of a special short code `[qzzr]` for embedding Qzzr quizzes. 
 
-[Qzzr](http://www.qzzr.co) + Qzzr Shortcode Plugin = **Wordpress lovin’.**
+[Qzzr](http://www.qzzr.com) + Qzzr Shortcode Plugin = **Wordpress lovin’.**
 
-[Qzzr](http://www.qzzr.co) is the world’s simplest quiz building tool. It lets everyone from Fortune 500 companies to your mother create a quiz and share it with the world. Now with our Wordpress plugin, anyone who creates their own content on Wordpress can now create and embed their own quizzes just like BuzzFeed. That means you can use our quiz tool to promote your own site or blog without people ever leaving your site. 
+[Qzzr](http://www.qzzr.com) is the world’s simplest quiz building tool. It lets everyone from Fortune 500 companies to your mother create a quiz and share it with the world. Now with our Wordpress plugin, anyone who creates their own content on Wordpress can now create and embed their own quizzes just like BuzzFeed. That means you can use our quiz tool to promote your own site or blog without people ever leaving your site. 
 
 You could embed quizzes on Wordpress before, but the process was complicated and didn’t work for all types of users on Wordpress. We wanted to simplify the process, so we created the **Qzzr Shortcode Plugin** and made it available for all our faithful Wordpress users. You create a quiz on Qzzr, grab the WordPress shortcode and with the plugin installed on your Wordpress site, just paste it into any post or page on WordPress and that’s it. Your quiz will embed itself on your site and like embedding a video from YouTube or Vimeo, your quiz will appear inline with your content. 
 
-Don't have a Qzzr account? No problem! Head over to [Qzzr.co](http://www.qzzr.co) and sign up for a free account, and start making your own quizzes.
+Don't have a Qzzr account? No problem! Head over to [Qzzr.com](http://www.qzzr.com) and sign up for a free account, and start making your own quizzes.
 
 = Current Features = 
 
@@ -66,7 +67,7 @@ Otherwise:
 
 = What is Qzzr? =
 
-[Qzzr](http://www.qzzr.co) is a web app that helps anybody build beautiful engaging quizzes. It's great for driving social traffic, generating qualified leads, presenting targeted offers, and tracking scores. [Learn more about Qzzr](http://www.qzzr.co).
+[Qzzr](http://www.qzzr.com) is a web app that helps anybody build beautiful engaging quizzes. It's great for driving social traffic, generating qualified leads, presenting targeted offers, and tracking scores. [Learn more about Qzzr](http://www.qzzr.com).
 
 
 = Why is this plugin useful? =
@@ -101,7 +102,7 @@ No problem at all, check out our thorough [knowledge base](https://qzzr.groovehq
 
 = But what if it doesn’t look good or I can’t get it to work?! =
 
-Well, that’s why we’re here. Qzzr offers exceptional support and we’re available at no extra cost to you. You need help embedding a quiz and just can’t figure it out? Our Support team can even talk over the phone or screenshare to walk you through the process and help you get your quiz up and running! Plus we can help with any question you might have about Qzzr. Visit Qzzr.co and click on the Need Help?’ button at the bottom of the page or email Qzzr [support@qzzr.co](mailto:support@qzzr.co).
+Well, that’s why we’re here. Qzzr offers exceptional support and we’re available at no extra cost to you. You need help embedding a quiz and just can’t figure it out? Our Support team can even talk over the phone or screenshare to walk you through the process and help you get your quiz up and running! Plus we can help with any question you might have about Qzzr. Visit Qzzr.com and click on the Need Help?’ button at the bottom of the page or email Qzzr [support@qzzr.com](mailto:support@qzzr.com).
 
 
 
