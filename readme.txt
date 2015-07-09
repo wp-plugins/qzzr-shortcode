@@ -8,8 +8,8 @@ Author URI: http://qzzr.com
 Author: Qzzr
 Requires at least: 2.6
 Tested up to: 4.0
-Stable tag: 1.01
-Version: 1.01
+Stable tag: 1.0.1
+Version: 1.0.1
 
 Embed your Qzzr.com quizzes on your wordpress site.
  
@@ -62,6 +62,7 @@ Otherwise:
 == Changelog ==
 
 1.0 - Initial release.
+1.0.1 - Fixed warning that was being shown when WP_DEBUG was true.
 
 == Frequently Asked Questions ==
 

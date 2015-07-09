@@ -2,7 +2,7 @@
 /*
 Plugin Name: Qzzr Shortcode Plugin
 Description: Enables shortcode to embed Qzzr quizzes. Usage: <code>[qzzr quiz="123" width="100%" height="auto"]</code>. This code is available to copy and paste directly from the Qzzr share screen.
-Version: 1.00
+Version: 1.0.1
 License: GPL
 Author: Qzzr
 Author URI: http://qzzr.co
@@ -30,7 +30,7 @@ function createQzzrEmbedJS($atts, $content = null) {
 
 	} else {
 
-		wp_enqueue_script( 'qzzr', '//dcc4iyjchzom0.cloudfront.net/widget/loader.js', nil , false, false ); 
+		wp_enqueue_script( 'qzzr', '//dcc4iyjchzom0.cloudfront.net/widget/loader.js',  array(), false, false ); 
 
 		$qzzrHook = "<div class='quizz-container' data-quiz='$quiz' data-width='$width' data-height='$height'";
 		
